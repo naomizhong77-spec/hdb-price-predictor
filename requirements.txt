@@ -1,0 +1,4 @@
+gradio>=4.0
+xgboost>=2.0
+numpy
+matplotlib
